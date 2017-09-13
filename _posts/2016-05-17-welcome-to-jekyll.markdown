@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the site that tells you how awesome Micah is!"
+title:  "Welcome!"
 date:   2016-05-17 11:05:37 -0400
 categories: jekyll update
 ---
